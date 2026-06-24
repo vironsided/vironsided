@@ -1,7 +1,7 @@
 # Hi, I'm Vusal Teymurov 👋
 
 <p align="center">
-  <img src="./github_profile.gif" alt="Vusal Teymurov" width="900">
+  <img src="./ezgif-189bfdf4436ee8b0.gif" alt="Vusal Teymurov" width="900">
 </p>
 
 <p align="center">
